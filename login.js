@@ -11,5 +11,9 @@ $(document).ready(function() {
         {
             location.href = "orders.html";
         }
+        else if(username == "staff")
+        {
+            location.href = "orders.html"
+        }
     });
 });
