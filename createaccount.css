@@ -26,13 +26,13 @@ h1 {
     top: 45px;
     font-size: 48pt;
     color: white;
-    font-family: "Arial", Helvetica, sans-serif;
+    font-family: "Myriad Pro", Helvetica, sans-serif;
 }
 
 h2 {
     font-size: 16pt;
     color: white;
-    font-family: "Arial", Helvetica, sans-serif;
+    font-family: "Myriad Pro", Helvetica, sans-serif;
 }
 
 #createusername {
@@ -64,5 +64,5 @@ h2 {
     font-size: 12pt;
     text-align: center;
     color: white;
-    font-family: "Arial", Helvetica, sans-serif;
+    font-family: "Myriad Pro", Helvetica, sans-serif;
 }
